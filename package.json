@@ -15,8 +15,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@apollo/gateway": "^0.16.2",
-    "apollo-server": "^2.14.2",
+    "@apollo/gateway": "^2.0.0",
+    "apollo-server": "^3.13.0",
     "graphql": "^14.6.0"
   },
   "devDependencies": {
